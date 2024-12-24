@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dreamcatcher</string>
+    <string name="last_updated_text">Wed May 11 11:56 EST 2022</string>
+    <string name="fulfilled_checkbox">Fulfilled</string>
+    <string name="deferred_checkbox">Deferred</string>
+    <string name="entry_0_button">CONCEIVED</string>
+    <string name="entry_1_button">Reflection One</string>
+    <string name="entry_2_button">Reflection Two</string>
+    <string name="entry_3_button">Reflection Three</string>
+    <string name="entry_4_button">DEFERRED</string>
+    <string name="title_text">My First Dream</string>
+    <string name="add_reflection_button">Add Reflection</string>
+    <string name="reflection_text">Enter Reflection Text</string>
+    <string name="reflection_dialog_title">Add Reflection</string>
+    <string name="reflection_dialog_positive">Add</string>
+    <string name="reflection_dialog_negative">Cancel</string>
+    <string name="floating_action_button">Floating_action_button</string>
+    <string name="new_dream">New Dream</string>
+    <string name="no_dreams">No dreams yet</string>
+    <string name="share_dream">Share Dream</string>
+    <string name="dream_photo">Photo</string>
+    <string name="take_photo_menu">Take Photo</string>
+
+</resources>
